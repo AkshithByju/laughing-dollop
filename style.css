@@ -1,0 +1,20 @@
+#visual-studio{
+    text-align:center;
+    background-color:aqua;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#console-screen{
+    text-align:center;
+    font-family:'Courier New', Courier, monospace;
+    background-color:aquamarine;
+}
+body{
+    background-image:url(code\ man\ i.jpg);
+    
+}
+#console_check{
+    text-align:center;
+    background-color:lightskyblue;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
